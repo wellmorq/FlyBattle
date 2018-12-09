@@ -1,0 +1,27 @@
+
+=== Mon Oct 22 20:13:34 2018
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were added:
+  com.unity.collab-proxy@1.2.11
+The following packages were updated:
+  com.unity.analytics from version 2.0.16 to 3.0.9
+  com.unity.package-manager-ui from version 1.9.11 to 2.0.1
+
+=== Wed Nov  7 18:04:34 2018
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were updated:
+  com.unity.package-manager-ui from version 2.0.2 to 2.0.3
+
+=== Sat Nov 24 15:06:18 2018
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were updated:
+  com.unity.analytics from version 3.0.9 to 3.2.2

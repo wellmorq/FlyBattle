@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1337009108237934
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4097543125600082}
+  - component: {fileID: 114036871348008002}
+  - component: {fileID: 114222428451230534}
+  - component: {fileID: 114993872889687092}
+  m_Layer: 0
+  m_Name: GameLogic
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4097543125600082
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1337009108237934}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -1120.2057, y: -605.07275, z: 30}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114036871348008002
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1337009108237934}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d14b8fe4e8422c041b627ae20b4cf2fc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  __messageText: 
+  isInvoked: 0
+--- !u!114 &114222428451230534
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1337009108237934}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c0fe73c5ad8a84f49b9af4ec6ea2c7cc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  __messageText: 
+  AIPrefs: {fileID: 11400000, guid: 67a02bf3933f1c84a853ab708ebf1853, type: 2}
+  ProfileController: {fileID: 11400000, guid: f6060cd36fd9a3a48b26e1498cd42313, type: 2}
+  LocalizationController: {fileID: 11400000, guid: 62cc742b5335e5645979e92d3f6653e2,
+    type: 2}
+  PlayerSettings: {fileID: 11400000, guid: c72a1ae7b95d9494dbe87c78c3a515b5, type: 2}
+  GameItems: {fileID: 11400000, guid: b4dfd53827dceb64fa10ad7a2ace2773, type: 2}
+--- !u!114 &114993872889687092
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1337009108237934}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6d0ca540895b4549b479486b63c972a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  __messageText: 
+  _fader: {fileID: 0}

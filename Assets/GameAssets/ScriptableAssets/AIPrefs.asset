@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: abf73d13496720741ad8429769f1e41d, type: 3}
+  m_Name: AIPrefs
+  m_EditorClassIdentifier: 
+  AIProfiles:
+  - _name: Fedor
+    _planeInfo: 17c0cb08-1b17-47e7-82eb-598f0433c561
+    _skyDriverInfo: 2b973788-1760-48df-a3bf-16b7a3f30434
+    _money: 0
+    _exp: 0
+    playerColor:
+    - 40
+    - 40
+    - 180
+    - 1
+    enemyColor:
+    - 180
+    - 40
+    - 40
+    - 1
+    _winCount: 0
+    _loseCount: 0
+    _purchasedPlanes:
+    - 17c0cb08-1b17-47e7-82eb-598f0433c561
+    _purchasedSkyDrivers:
+    - 2b973788-1760-48df-a3bf-16b7a3f30434

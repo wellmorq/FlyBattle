@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: c0fe73c5ad8a84f49b9af4ec6ea2c7cc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - AIPrefs: {fileID: 11400000, guid: 67a02bf3933f1c84a853ab708ebf1853, type: 2}
+  - ProfileController: {fileID: 11400000, guid: f6060cd36fd9a3a48b26e1498cd42313,
+      type: 2}
+  - LocalizationController: {fileID: 11400000, guid: 62cc742b5335e5645979e92d3f6653e2,
+      type: 2}
+  - PlayerSettings: {fileID: 11400000, guid: c72a1ae7b95d9494dbe87c78c3a515b5, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

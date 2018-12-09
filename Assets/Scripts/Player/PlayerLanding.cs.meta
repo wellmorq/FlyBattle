@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: d7e8a4932fe2d6f478c9c96b3c7d99f6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Parachutist: {fileID: 1618031664389416, guid: 0b38ca99f10d52e4685c89004cedf432,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
