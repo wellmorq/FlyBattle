@@ -169,14 +169,6 @@
           </e>
         </e>
         <e p="Scripts" t="Include">
-          <e p="BeforeRefactoring" t="Include">
-            <e p="CheckPoint.cs" t="Include" />
-            <e p="Lvl2.cs" t="Include" />
-            <e p="Lvl3.cs" t="Include" />
-            <e p="Lvl4.cs" t="Include" />
-            <e p="TargetLvl3.cs" t="Include" />
-            <e p="TargetScript.cs" t="Include" />
-          </e>
           <e p="Bullet.cs" t="Include" />
           <e p="CloudMoving.cs" t="Include" />
           <e p="Controllers" t="Include">
