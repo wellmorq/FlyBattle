@@ -19,7 +19,7 @@ namespace FlyBattle.Controllers
 
         public override bool CheckReady(GameState state)
         {
-            bool flag;
+            //bool flag;
             switch (state)
             {
                 default:
