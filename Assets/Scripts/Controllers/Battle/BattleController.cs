@@ -56,13 +56,13 @@ namespace FlyBattle.Controllers
 
         protected virtual BattleController Set(GameData data)
         {
-            var instance = GameManager.Instance;
-            ObjectHealth.ObjectDestroy += ObjectDestroy;
-            instance.GamePlay += () => SetReady(true);
+            //var instance = GameManager.Instance;
+           // ObjectHealth.ObjectDestroy += ObjectDestroy;
+           // instance.GamePlay += () => SetReady(true);
 
-            TempData = data;
+            //TempData = data;
 
-            Player1 = new PlaneManager(TempData.Player1, TempData.Type, this.gameObject);
+            //Player1 = new PlaneManager(TempData.Player1, TempData.Type, this.gameObject);
             if (TempData.Type != Consts.BattleType.SinglePlayer)
                 Player2 = new PlaneManager(TempData.Player2, TempData.Type, this.gameObject);
 
